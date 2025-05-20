@@ -1,0 +1,453 @@
+{
+  "form": {
+    "firstName": "PLACEHOLDER_STRING",
+    "lastName": "PLACEHOLDER_STRING",
+    "email": "PLACEHOLDER_STRING",
+    "phone": "PLACEHOLDER_STRING",
+    "email_address": "PLACEHOLDER_STRING",
+    "street1": "PLACEHOLDER_STRING",
+    "street2": "PLACEHOLDER_STRING",
+    "city": "PLACEHOLDER_STRING",
+    "country": "PLACEHOLDER_STRING",
+    "state": "PLACEHOLDER_STRING",
+    "zip": "PLACEHOLDER_STRING",
+    "governmentId": "PLACEHOLDER_STRING"
+  },
+  "heading": {
+    "create_account": "PLACEHOLDER_STRING",
+    "profiling_form_1": "PLACEHOLDER_STRING",
+    "profiling_form_2": "PLACEHOLDER_STRING",
+    "profiling_form_3": "PLACEHOLDER_STRING",
+    "profiling_form_4": "PLACEHOLDER_STRING",
+    "profiling_form_5": "PLACEHOLDER_STRING",
+    "profiling_form_6": "PLACEHOLDER_STRING"
+  },
+  "subheading": {
+    "register_form_1": "PLACEHOLDER_LONG_STRING",
+    "register_form_2": "PLACEHOLDER_LONG_STRING",
+    "profiling_form_1": "PLACEHOLDER_LONG_STRING",
+    "profiling_form_2": "PLACEHOLDER_LONG_STRING",
+    "profiling_form_3": "PLACEHOLDER_LONG_STRING",
+    "profiling_form_4": "PLACEHOLDER_LONG_STRING",
+    "profiling_form_5": "PLACEHOLDER_LONG_STRING",
+    "profiling_form_6": "PLACEHOLDER_STRING"
+  },
+  "subheading2": {
+    "register_form_1": "PLACEHOLDER_LONG_STRING"
+  },
+  "button": {
+    "next": "PLACEHOLDER_STRING",
+    "save": "PLACEHOLDER_STRING"
+  },
+  "link": {
+    "signin": "PLACEHOLDER_STRING",
+    "already_account": "PLACEHOLDER_STRING"
+  },
+  "step_indicator": {
+    "step1": "PLACEHOLDER_STRING",
+    "step2": "PLACEHOLDER_STRING",
+    "step3": "PLACEHOLDER_STRING",
+    "step4": "PLACEHOLDER_STRING",
+    "step5": "PLACEHOLDER_STRING"
+  },
+  "membership_management": {
+    "management_page": {
+      "heading": "PLACEHOLDER_STRING",
+      "sub_heading": "PLACEHOLDER_STRING",
+      "search_placeholder": "PLACEHOLDER_STRING",
+      "status_placeholder": "PLACEHOLDER_STRING",
+      "total_users": "PLACEHOLDER_STRING",
+      "table_header": {
+        "column_1": "PLACEHOLDER_STRING",
+        "column_2": "PLACEHOLDER_STRING",
+        "column_3": "PLACEHOLDER_STRING",
+        "column_4": "PLACEHOLDER_STRING",
+        "column_5": "PLACEHOLDER_STRING",
+        "column_6": "PLACEHOLDER_STRING",
+        "column_7": "PLACEHOLDER_STRING",
+        "column_8": "PLACEHOLDER_STRING",
+        "column_9": "PLACEHOLDER_STRING"
+      }
+    }
+  },
+  "services": {
+    "management_page": {
+      "heading": "PLACEHOLDER_STRING",
+      "sub_heading": "PLACEHOLDER_STRING",
+      "search_placeholder": "PLACEHOLDER_STRING",
+      "status_placeholder": "PLACEHOLDER_STRING",
+      "table_header": {
+        "column_1": "PLACEHOLDER_STRING",
+        "column_2": "PLACEHOLDER_STRING",
+        "column_3": "PLACEHOLDER_STRING",
+        "column_4": "PLACEHOLDER_STRING",
+        "column_5": "PLACEHOLDER_STRING",
+        "column_6": "PLACEHOLDER_STRING",
+        "column_7": "PLACEHOLDER_STRING",
+        "column_8": "PLACEHOLDER_STRING",
+        "column_9": "PLACEHOLDER_STRING"
+      }
+    },
+    "create_edit_page": {
+      "heading": "PLACEHOLDER_STRING",
+      "subheading": "PLACEHOLDER_LONG_STRING",
+      "heading2": "PLACEHOLDER_STRING",
+      "subheading2": "PLACEHOLDER_STRING",
+      "created_message": "PLACEHOLDER_STRING",
+      "updated_message": "PLACEHOLDER_STRING",
+      "deleted_message": "PLACEHOLDER_STRING",
+      "no_change_message": "PLACEHOLDER_STRING",
+      "yes": "PLACEHOLDER_STRING",
+      "no": "PLACEHOLDER_STRING",
+      "on": "PLACEHOLDER_STRING",
+      "off": "PLACEHOLDER_STRING",
+      "labels": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING",
+        "input_3": "PLACEHOLDER_STRING",
+        "input_4": "PLACEHOLDER_STRING",
+        "input_5": "PLACEHOLDER_STRING",
+        "input_6": "PLACEHOLDER_STRING",
+        "input_7": "PLACEHOLDER_STRING",
+        "input_8": "PLACEHOLDER_STRING",
+        "input_9": "PLACEHOLDER_STRING",
+        "input_10": "PLACEHOLDER_STRING",
+        "input_11": "PLACEHOLDER_STRING",
+        "input_12": "PLACEHOLDER_STRING",
+        "input_13": "PLACEHOLDER_STRING",
+        "input_14": "PLACEHOLDER_STRING",
+        "input_15": "PLACEHOLDER_STRING",
+        "input_16": "PLACEHOLDER_STRING",
+        "push_notification": "PLACEHOLDER_STRING",
+        "live_chat": "PLACEHOLDER_STRING",
+        "active": "PLACEHOLDER_STRING",
+        "input_20": "PLACEHOLDER_STRING",
+        "input_21": "PLACEHOLDER_STRING",
+        "input_22": "PLACEHOLDER_STRING"
+      },
+      "placeholder": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING",
+        "input_3": "PLACEHOLDER_STRING",
+        "input_4": "PLACEHOLDER_STRING",
+        "input_5": "PLACEHOLDER_STRING",
+        "input_6": "PLACEHOLDER_STRING",
+        "input_7": "PLACEHOLDER_STRING",
+        "input_8": "PLACEHOLDER_STRING",
+        "input_9": "PLACEHOLDER_STRING",
+        "input_10": "PLACEHOLDER_STRING",
+        "input_11": "PLACEHOLDER_STRING",
+        "input_12": "PLACEHOLDER_STRING",
+        "input_13": "PLACEHOLDER_STRING",
+        "input_14": "PLACEHOLDER_STRING",
+        "input_15": "PLACEHOLDER_STRING",
+        "input_16": "PLACEHOLDER_STRING",
+        "input_17": "PLACEHOLDER_STRING",
+        "input_18": "PLACEHOLDER_STRING",
+        "input_19": "PLACEHOLDER_STRING"
+      },
+      "error_messages": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING",
+        "input_3": "PLACEHOLDER_STRING",
+        "input_4": "PLACEHOLDER_STRING",
+        "input_5": "PLACEHOLDER_STRING",
+        "input_6": "PLACEHOLDER_STRING",
+        "input_8": "PLACEHOLDER_STRING",
+        "input_9": "PLACEHOLDER_STRING",
+        "input_10": "PLACEHOLDER_STRING",
+        "input_12": "PLACEHOLDER_STRING",
+        "input_16": "PLACEHOLDER_STRING",
+        "input_17": "PLACEHOLDER_STRING",
+        "input_20": "PLACEHOLDER_STRING"
+      }
+    }
+  },
+  "events": {
+    "management_page": {
+      "heading": "PLACEHOLDER_STRING",
+      "sub_heading": "PLACEHOLDER_STRING",
+      "search_placeholder": "PLACEHOLDER_STRING",
+      "status_placeholder": "PLACEHOLDER_STRING",
+      "table_header": {
+        "column_1": "PLACEHOLDER_STRING",
+        "column_2": "PLACEHOLDER_STRING",
+        "column_3": "PLACEHOLDER_STRING",
+        "column_4": "PLACEHOLDER_STRING",
+        "column_5": "PLACEHOLDER_STRING",
+        "column_6": "PLACEHOLDER_STRING",
+        "column_7": "PLACEHOLDER_STRING",
+        "column_8": "PLACEHOLDER_STRING",
+        "column_9": "PLACEHOLDER_STRING"
+      }
+    },
+    "create_edit_page": {
+      "heading": "PLACEHOLDER_STRING",
+      "subheading": "PLACEHOLDER_LONG_STRING",
+      "heading2": "PLACEHOLDER_STRING",
+      "subheading2": "PLACEHOLDER_STRING",
+      "general": "PLACEHOLDER_STRING",
+      "registration": "PLACEHOLDER_STRING",
+      "place_of_event": "PLACEHOLDER_STRING",
+      "created_message": "PLACEHOLDER_STRING",
+      "updated_message": "PLACEHOLDER_STRING",
+      "deleted_message": "PLACEHOLDER_STRING",
+      "no_change_message": "PLACEHOLDER_STRING",
+      "yes": "PLACEHOLDER_STRING",
+      "no": "PLACEHOLDER_STRING",
+      "on": "PLACEHOLDER_STRING",
+      "off": "PLACEHOLDER_STRING",
+      "paid": "PLACEHOLDER_STRING",
+      "unpaid": "PLACEHOLDER_STRING",
+      "online": "PLACEHOLDER_STRING",
+      "inperson": "PLACEHOLDER_STRING",
+      "enter": "PLACEHOLDER_STRING",
+      "labels": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING",
+        "input_3": "PLACEHOLDER_STRING",
+        "input_4": "PLACEHOLDER_STRING",
+        "input_5": "PLACEHOLDER_STRING",
+        "input_6": "PLACEHOLDER_STRING",
+        "input_7": "PLACEHOLDER_STRING",
+        "input_8": "PLACEHOLDER_STRING",
+        "input_9": "PLACEHOLDER_STRING",
+        "input_10": "PLACEHOLDER_STRING",
+        "input_11": "PLACEHOLDER_STRING",
+        "input_12": "PLACEHOLDER_STRING",
+        "input_13": "PLACEHOLDER_STRING",
+        "input_14": "PLACEHOLDER_STRING",
+        "input_15": "PLACEHOLDER_STRING",
+        "input_16": "PLACEHOLDER_STRING",
+        "input_17": "PLACEHOLDER_STRING",
+        "input_18": "PLACEHOLDER_STRING",
+        "input_19": "PLACEHOLDER_STRING",
+        "input_20": "PLACEHOLDER_STRING",
+        "input_21": "PLACEHOLDER_STRING",
+        "input_22": "PLACEHOLDER_STRING",
+        "input_23": "PLACEHOLDER_STRING",
+        "input_24": "PLACEHOLDER_STRING",
+        "input_25": "PLACEHOLDER_STRING",
+        "input_26": "PLACEHOLDER_STRING",
+        "input_27": "PLACEHOLDER_STRING",
+        "push_notification": "PLACEHOLDER_STRING",
+        "live_chat": "PLACEHOLDER_STRING",
+        "active": "PLACEHOLDER_STRING",
+        "input_31": "PLACEHOLDER_STRING",
+        "input_32": "PLACEHOLDER_STRING",
+        "input_33": "PLACEHOLDER_STRING"
+      },
+      "placeholder": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_5": "PLACEHOLDER_STRING",
+        "input_6": "PLACEHOLDER_STRING",
+        "input_14": "PLACEHOLDER_STRING",
+        "input_15": "PLACEHOLDER_STRING",
+        "input_17": "PLACEHOLDER_STRING",
+        "input_18": "PLACEHOLDER_STRING",
+        "input_19": "PLACEHOLDER_STRING",
+        "input_20": "PLACEHOLDER_STRING",
+        "input_23": "PLACEHOLDER_STRING",
+        "input_26": "PLACEHOLDER_STRING",
+        "input_27": "PLACEHOLDER_STRING"
+      },
+      "error_messages": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_3": "PLACEHOLDER_STRING",
+        "input_4": "PLACEHOLDER_STRING",
+        "input_5": "PLACEHOLDER_STRING",
+        "input_6": "PLACEHOLDER_STRING",
+        "input_7": "PLACEHOLDER_STRING",
+        "input_8": "PLACEHOLDER_STRING",
+        "input_9": "PLACEHOLDER_STRING",
+        "input_10": "PLACEHOLDER_STRING",
+        "input_12": "PLACEHOLDER_STRING",
+        "input_14": "PLACEHOLDER_STRING",
+        "input_15": "PLACEHOLDER_STRING",
+        "input_17": "PLACEHOLDER_STRING",
+        "input_18": "PLACEHOLDER_STRING",
+        "input_19": "PLACEHOLDER_STRING",
+        "input_20": "PLACEHOLDER_STRING",
+        "input_23": "PLACEHOLDER_STRING",
+        "input_26": "PLACEHOLDER_STRING",
+        "input_27": "PLACEHOLDER_STRING",
+        "input_31": "PLACEHOLDER_STRING"
+      }
+    }
+  },
+  "blogs": {
+    "management_page": {
+      "heading": "PLACEHOLDER_STRING",
+      "sub_heading": "PLACEHOLDER_STRING",
+      "search_placeholder": "PLACEHOLDER_STRING",
+      "status_placeholder": "PLACEHOLDER_STRING",
+      "table_header": {
+        "column_1": "PLACEHOLDER_STRING",
+        "column_2": "PLACEHOLDER_STRING",
+        "column_3": "PLACEHOLDER_STRING",
+        "column_4": "PLACEHOLDER_STRING",
+        "column_5": "PLACEHOLDER_STRING",
+        "column_6": "PLACEHOLDER_STRING"
+      }
+    },
+    "create_edit_page": {
+      "heading": "PLACEHOLDER_STRING",
+      "subheading": "PLACEHOLDER_LONG_STRING",
+      "heading2": "PLACEHOLDER_STRING",
+      "subheading2": "PLACEHOLDER_STRING",
+      "created_message": "PLACEHOLDER_STRING",
+      "updated_message": "PLACEHOLDER_STRING",
+      "deleted_message": "PLACEHOLDER_STRING",
+      "no_change_message": "PLACEHOLDER_STRING",
+      "yes": "PLACEHOLDER_STRING",
+      "no": "PLACEHOLDER_STRING",
+      "on": "PLACEHOLDER_STRING",
+      "off": "PLACEHOLDER_STRING",
+      "labels": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING",
+        "input_3": "PLACEHOLDER_STRING",
+        "input_4": "PLACEHOLDER_STRING",
+        "input_5": "PLACEHOLDER_STRING",
+        "input_6": "PLACEHOLDER_STRING"
+      },
+      "placeholder": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING",
+        "input_3": "PLACEHOLDER_STRING"
+      },
+      "error_messages": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING",
+        "input_3": "PLACEHOLDER_STRING",
+        "input_6": "PLACEHOLDER_STRING"
+      }
+    }
+  },
+  "blogs_categories": {
+    "management_page": {
+      "heading": "PLACEHOLDER_STRING",
+      "sub_heading": "PLACEHOLDER_STRING",
+      "search_placeholder": "PLACEHOLDER_STRING",
+      "status_placeholder": "PLACEHOLDER_STRING",
+      "table_header": {
+        "column_1": "PLACEHOLDER_STRING",
+        "column_2": "PLACEHOLDER_STRING",
+        "column_3": "PLACEHOLDER_STRING",
+        "column_4": "PLACEHOLDER_STRING",
+        "column_5": "PLACEHOLDER_STRING"
+      }
+    },
+    "create_edit_page": {
+      "heading": "PLACEHOLDER_STRING",
+      "subheading": "PLACEHOLDER_LONG_STRING",
+      "heading2": "PLACEHOLDER_STRING",
+      "subheading2": "PLACEHOLDER_STRING",
+      "created_message": "PLACEHOLDER_STRING",
+      "updated_message": "PLACEHOLDER_STRING",
+      "deleted_message": "PLACEHOLDER_STRING",
+      "no_change_message": "PLACEHOLDER_STRING",
+      "yes": "PLACEHOLDER_STRING",
+      "no": "PLACEHOLDER_STRING",
+      "on": "PLACEHOLDER_STRING",
+      "off": "PLACEHOLDER_STRING",
+      "labels": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING"
+      },
+      "placeholder": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING"
+      },
+      "error_messages": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING"
+      }
+    }
+  },
+  "announcement": {
+    "management_page": {
+      "heading": "PLACEHOLDER_STRING",
+      "sub_heading": "PLACEHOLDER_STRING",
+      "total_announcements": "PLACEHOLDER_STRING",
+      "search_placeholder": "PLACEHOLDER_STRING",
+      "status_placeholder": "PLACEHOLDER_STRING",
+      "table_header": {
+        "column_1": "PLACEHOLDER_STRING",
+        "column_2": "PLACEHOLDER_STRING",
+        "column_3": "PLACEHOLDER_STRING",
+        "column_4": "PLACEHOLDER_STRING",
+        "column_5": "PLACEHOLDER_STRING",
+        "column_6": "PLACEHOLDER_STRING"
+      }
+    },
+    "create_edit_page": {
+      "heading": "PLACEHOLDER_STRING",
+      "subheading": "PLACEHOLDER_LONG_STRING",
+      "heading2": "PLACEHOLDER_STRING",
+      "subheading2": "PLACEHOLDER_LONG_STRING",
+      "created_message": "PLACEHOLDER_STRING",
+      "updated_message": "PLACEHOLDER_STRING",
+      "deleted_message": "PLACEHOLDER_STRING",
+      "no_change_message": "PLACEHOLDER_STRING",
+      "yes": "PLACEHOLDER_STRING",
+      "no": "PLACEHOLDER_STRING",
+      "labels": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING",
+        "input_3": "PLACEHOLDER_STRING",
+        "input_4": "PLACEHOLDER_STRING",
+        "input_5": "PLACEHOLDER_STRING"
+      },
+      "placeholder": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING",
+        "input_3": "PLACEHOLDER_STRING"
+      },
+      "error_messages": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING",
+        "input_3": "PLACEHOLDER_STRING",
+        "input_6": "PLACEHOLDER_STRING"
+      }
+    }
+  },
+  "announcement_categories": {
+    "management_page": {
+      "heading": "PLACEHOLDER_STRING",
+      "sub_heading": "PLACEHOLDER_STRING",
+      "search_placeholder": "PLACEHOLDER_STRING",
+      "table_header": {
+        "column_1": "PLACEHOLDER_STRING",
+        "column_2": "PLACEHOLDER_STRING",
+        "column_3": "PLACEHOLDER_STRING",
+        "column_4": "PLACEHOLDER_STRING",
+        "column_5": "PLACEHOLDER_STRING"
+      }
+    },
+    "create_edit_page": {
+      "heading": "PLACEHOLDER_STRING",
+      "subheading": "PLACEHOLDER_LONG_STRING",
+      "heading2": "PLACEHOLDER_STRING",
+      "subheading2": "PLACEHOLDER_STRING",
+      "created_message": "PLACEHOLDER_STRING",
+      "updated_message": "PLACEHOLDER_STRING",
+      "deleted_message": "PLACEHOLDER_STRING",
+      "no_change_message": "PLACEHOLDER_STRING",
+      "yes": "PLACEHOLDER_STRING",
+      "no": "PLACEHOLDER_STRING",
+      "labels": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING"
+      },
+      "placeholder": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING"
+      },
+      "error_messages": {
+        "input_1": "PLACEHOLDER_STRING",
+        "input_2": "PLACEHOLDER_STRING"
+      }
+    }
+  }
+}

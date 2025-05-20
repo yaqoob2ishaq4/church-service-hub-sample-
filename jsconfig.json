@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": [
+        "PLACEHOLDER_STRING"
+      ]
+    }
+  }
+}

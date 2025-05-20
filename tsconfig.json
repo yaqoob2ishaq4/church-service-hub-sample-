@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "PLACEHOLDER_STRING",
+      "PLACEHOLDER_STRING",
+      "PLACEHOLDER_STRING"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "noEmit": true,
+    "incremental": true,
+    "esModuleInterop": true,
+    "module": "PLACEHOLDER_STRING",
+    "moduleResolution": "PLACEHOLDER_STRING",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "PLACEHOLDER_STRING",
+    "plugins": [
+      {
+        "name": "PLACEHOLDER_STRING"
+      }
+    ]
+  },
+  "include": [
+    "PLACEHOLDER_STRING",
+    "PLACEHOLDER_STRING",
+    "PLACEHOLDER_STRING"
+  ],
+  "exclude": [
+    "PLACEHOLDER_STRING"
+  ]
+}

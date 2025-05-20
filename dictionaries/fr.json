@@ -1,0 +1,40 @@
+{
+  "form": {
+    "firstName": "PLACEHOLDER_STRING",
+    "lastName": "PLACEHOLDER_STRING",
+    "email": "PLACEHOLDER_STRING",
+    "phone": "PLACEHOLDER_STRING",
+    "email_address": "PLACEHOLDER_STRING",
+    "street1": "PLACEHOLDER_STRING",
+    "street2": "PLACEHOLDER_STRING",
+    "city": "PLACEHOLDER_STRING",
+    "country": "PLACEHOLDER_STRING",
+    "state": "PLACEHOLDER_STRING",
+    "zip": "PLACEHOLDER_STRING",
+    "governmentId": "PLACEHOLDER_STRING"
+  },
+  "heading": {
+    "create_account": "PLACEHOLDER_STRING",
+    "profiling_form_1": "PLACEHOLDER_STRING",
+    "profiling_form_2": "PLACEHOLDER_STRING",
+    "profiling_form_3": "PLACEHOLDER_STRING",
+    "profiling_form_4": "PLACEHOLDER_STRING",
+    "profiling_form_5": "PLACEHOLDER_STRING"
+  },
+  "subheading": {
+    "register_form_1": "PLACEHOLDER_LONG_STRING",
+    "register_form_2": "PLACEHOLDER_LONG_STRING",
+    "profiling_form_1": "PLACEHOLDER_LONG_STRING"
+  },
+  "subheading2": {
+    "register_form_1": "PLACEHOLDER_LONG_STRING"
+  },
+  "button": {
+    "next": "PLACEHOLDER_STRING",
+    "save": "PLACEHOLDER_STRING"
+  },
+  "link": {
+    "signin": "PLACEHOLDER_STRING",
+    "already_account": "PLACEHOLDER_STRING"
+  }
+}
